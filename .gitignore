@@ -1,0 +1,17 @@
+.pio
+.worktrees/
+.superpowers/
+include/buildInfo.h
+/hardware/
+/scratch/
+/docs/superpowers/
+/test/run_all_tests
+
+/scripts/gen_crt_bundle.py
+/scripts/x509_crt_bundle
+
+# OS / Editor artifacts
+.DS_Store
+.idea/
+*.swp
+*.orig

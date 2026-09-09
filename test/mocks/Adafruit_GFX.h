@@ -1,0 +1,6 @@
+#ifndef TEST_MOCKS_ADAFRUIT_GFX_H
+#define TEST_MOCKS_ADAFRUIT_GFX_H
+
+#include <cstdint>
+
+#endif // TEST_MOCKS_ADAFRUIT_GFX_H
