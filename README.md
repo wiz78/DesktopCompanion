@@ -162,6 +162,12 @@ clang++ -std=c++20 -Iinclude -I.pio/libdeps/esp32-s3-mini/ArduinoJson/src -Itest
 
 ---
 
+## 3D Model
+
+A 3D model is available at https://makerworld.com/en/models/3309871-interactive-desk-companion-kitchen-timer
+
+---
+
 ## 📄 License & Attribution
 
 © 2026 Simone Tellini — [tellini.info](https://tellini.info)  
